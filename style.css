@@ -1,0 +1,40 @@
+body{
+    width:1200px;
+    margin:auto;
+}
+
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.ask-btn{
+    background-color: #33836e;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+    font-size: 16px;
+}
+
+.phone-number{
+    font-weight: bold;
+    font-size: 18px;
+    display: block;
+}
+
+.seacrh{
+    width: 427px;
+    border: none;
+    font-size: 16px;
+    background-color: #bebbcda2;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.contact-info{
+    color: #bebbcda2;
+}
