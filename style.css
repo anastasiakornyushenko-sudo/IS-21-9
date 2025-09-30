@@ -38,3 +38,56 @@ body{
 .contact-info{
     color: #bebbcda2;
 }
+
+.menu {
+    display: flex;
+    margin-top: 40px;
+    gap: 30px;
+    justify-content: space-between;
+    font-size: 16px;
+    align-items: center;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+
+.menu-border {
+    border: 1px solid  rgb(206, 206, 206);
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.menu-hotline {
+    margin-top: 40px;
+    text-decoration: none;
+    color: rgba(47, 43, 67, 0.5);
+}
+
+.onas{
+    display: flex;
+}
+
+.hotline-help { 
+    display: block;
+    color: #140A32;
+}
+
+.question{
+    display: flex;
+    gap: 30px;
+}
+/* .phone-number{
+    display: flex;
+} */
+
+.phone-number{
+    color: #33836e;
+}
+
+.line{
+    margin-top: 40px;
+    display: flex;
+    gap: 50px;
+}
